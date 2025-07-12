@@ -1,5 +1,4 @@
-# age-detection-internship
-# Age Detection – Internship Task 1
+# Age Detection – Task 1
 
 ## Model Details
 - Model: VGGFace (ResNet50 backbone)
