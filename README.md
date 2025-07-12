@@ -16,4 +16,4 @@
 - `saved_model.h5`: Trained model weights
 
 ## Saved Model
-If file > 100MB: [Download from Google Drive](PASTE-YOUR-LINK-HERE)
+If file > 100MB: [Download from Google Drive](https://drive.google.com/file/d/1nJWlTUwMr50z5Msh6MsppwAiJJgQUQL2/view?usp=drive_link)
